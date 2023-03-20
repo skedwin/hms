@@ -1,0 +1,17 @@
+Secure SSL/TLS Settings (Recommended) 
+Username:	edwin.serem@nckenya.org
+Password:	Use the email account’s password.
+Incoming Server:	a2plcpnl0046.prod.iad2.secureserver.net 
+•	IMAP Port: 993
+•	POP3 Port: 995
+Outgoing Server:	a2plcpnl0046.prod.iad2.secureserver.net 
+•	SMTP Port: 465
+IMAP, POP3, and SMTP require authentication.
+Username:	edwin.serem@nckenya.org
+Password:	Use the email account’s password.
+Incoming Server:	mail.nckenya.org 
+•	IMAP Port: 143
+•	POP3 Port: 110
+Outgoing Server:	mail.nckenya.org 
+•	SMTP Port: 587
+IMAP, POP3, and SMTP require authentication.
